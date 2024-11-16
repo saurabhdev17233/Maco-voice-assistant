@@ -1,4 +1,4 @@
-# Maco-voice-assitant
+# Maco-voice-assistant
 The provided code is a voice-activated assistant built using Python.
 **Here are its key features and functionalities:**
 Features:
